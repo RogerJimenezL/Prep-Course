@@ -1,0 +1,9 @@
+Variables = Es una cajita donde se puede guardar cosas (datos), le ponemos nombre a la cajita para poder usarla
+
+Strings = Es un tipo de datos, de texto, si queremos que nuestra cajita sólo guarde datos de texto, la declaramos como String
+
+Funciones (argumentos, return) = Es un lugar donde podemos hacer código que queramos reutilizar, es genial si tenemos una parte de código que usemos a cada rato, es como una cajita más grande que en vez de guardar un dato, podemos guardar líneas enteras de código!
+
+Declaraciones if = Son comandos que nos ayudan a que sólo se use una parte del código si se cumplen una o más condiciones, si se cumple la condición se ejecuta, sino, omite el código y ejecuta el resto
+
+Valores booleanos (true, false) = Es un tipo de datos, el cual sólo puede tener dos valores válidos ( si o no, 0 o 1, verdadero o falso, etc) en este caso es TRUE o FALSE (verdadero o falso en español)
