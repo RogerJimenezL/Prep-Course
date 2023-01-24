@@ -1,0 +1,7 @@
+for ==> es un ciclo repetitivo, usando una variable que cuenta las veces que se va a repetir el código y también cuando va a parar de repetirse
+
+&& ==> operador lógico que verifica si varias condiciones se cumplen todas, si, y sólo si todas se cumplen, se tomará cómo verdadero
+
+|| ==> operador lógico que verifica en varias condiciones se cumple alguna, si alguna llega a cumplirse entonces se tomará como verdadero
+
+! ==> es la negación de la condición, mostrará el valor contrario a la condición
