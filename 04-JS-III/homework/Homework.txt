@@ -1,0 +1,1 @@
+array ==> es un conjunto de datos, en español es arreglo, y podemos guardar en él todos los datos que queramos consumiendo sólo una "variable"
