@@ -1,0 +1,12 @@
+Objeto ==> muy parecido a un arreglo, pero mucho más completo, permitiendo en él más libertades al momento de programar, ya que la asignación a cada objeto en su "cajita" no se limitan a los número de un arreglo, y su interior es más intuitivo gracias a la relación entre palabra clave y el objeto que lo contiene, es como si acada cajita pudieras asignarle un nombre o dentificación.
+
+Propiedades ==> es la forma en la que llamamos a la relacion de clave con su valor (lo que lo ocntiene) cada contenido se le llama propiedad.
+
+Método ==> un objeto puede contener cualquier cosa, strings, número, booleanos, arreglos, otros objetos y hasta funciones, una función dentro de un objeto se le llama popularmente Método.
+
+blucle For... In ==> es la forma de acceder punto por punto a las propiedades de un objeto, así como se acceden en un arreglo, el cual a veces se requiere recorrer todo el objeto.
+
+notación de puntos vs notación de corchetes ==> es la forma de interactuar con las propiedades de un obtejo, de punto es la forma más literal el cual se tiene que decir exactamente la clave de un objeto, con los corchetes además se pueden usar variables que referencian, pero es más largo de escribir
+
+de puntos == Objeto.Propiedad
+corchetes == Objeto["Propiedad"]
